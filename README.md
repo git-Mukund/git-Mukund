@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @git-Mukund
-- 💞️ I’m looking to collaborate on coding, web development, etc.
+- 💞️ I’m looking to collaborate on AI, cloud, etc.
 - 📫 How to reach me [savaliya.mukund27@gmail.com and 8200656801]
 
 <!---
