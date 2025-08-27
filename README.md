@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @git-Mukund [B.Tech Mukund Savaliya (final year), CAIT, AAU, Anand]
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development and AI concepts, and Android
+- 👋 Hi, I’m @git-Mukund
 - 💞️ I’m looking to collaborate on coding, web development, etc.
 - 📫 How to reach me [savaliya.mukund27@gmail.com and 8200656801]
 
